@@ -1,3 +1,7 @@
+"""__author__  = "Leo Boberg"
+__version__ = "1.0.0"
+__email__   = "leo.boberg@elev.ga.ntig.se"""
+
 import pygame
 import random
 import sys
